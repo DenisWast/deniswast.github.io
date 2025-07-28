@@ -1,2 +1,3 @@
-# deniswast.github.io
-pages test
+theme: jekyll-theme-minimal
+title: homepage
+description: Bookmark this to keep an eye on my project updates!
